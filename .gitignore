@@ -31,3 +31,20 @@ yarn-error.log*
 # Python files
 *.pyc
 __pycache__/
+
+# Spring Boot / Maven
+student-admission-service/target/
+student-admission-service/.mvn/
+student-admission-service/mvnw
+student-admission-service/mvnw.cmd
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.idea/
+*.iml
+*.iws
+.settings/
+.project
+.classpath
